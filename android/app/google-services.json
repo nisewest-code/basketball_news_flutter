@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086218012360",
+    "project_id": "danomel-e43d8",
+    "storage_bucket": "danomel-e43d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086218012360:android:434282e90cf2b1282f07fd",
+        "android_client_info": {
+          "package_name": "kesdett.melbet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086218012360-7c07stvb79mjd8qfgah1st74io4j07rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOPapjeNDMjMpbENemTJ-ZoZWs_E-w1wM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086218012360-7c07stvb79mjd8qfgah1st74io4j07rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
